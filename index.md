@@ -2,7 +2,7 @@
 
 Nice to see you here!
 
-## Map details
+## Map details 
 
 
 ## Exploring the map
