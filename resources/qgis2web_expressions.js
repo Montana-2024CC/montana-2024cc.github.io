@@ -17,7 +17,7 @@
 // General
 
 // Geometry
-function fnc_azimuth(values, context) {
+function fnc_azimuth(values, context)  {
     return false;
 };
 
