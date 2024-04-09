@@ -6,7 +6,7 @@ var closer = document.getElementById('popup-closer');
 var sketch;
 
 closer.onclick = function() {
-    container.style.display = 'none';
+    container.style.display = 'none'; 
     closer.blur();
     return false;
 };
