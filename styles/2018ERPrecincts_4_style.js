@@ -1,5 +1,5 @@
 var size = 0;
-var placement = 'point';
+var placement = 'point' ;
 
 var style_2018ERPrecincts_4 = function(feature, resolution){
     var context = {
