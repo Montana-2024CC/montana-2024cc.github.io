@@ -1,4 +1,4 @@
-var wms_layers = [];
+var wms_layers = [] ;
 
 
         var lyr_GoogleMapsSatelliteImagery_0 = new ol.layer.Tile({
